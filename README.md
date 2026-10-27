@@ -150,4 +150,3 @@ Author
 Khaled, graduation project in Communication and Computer Engineering.
 GitHub: khaledhamdy404
 License
-No license has been chosen yet. Add a `LICENSE` file (for example MIT) before making the repository public if you want others to reuse the code.
